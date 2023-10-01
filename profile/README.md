@@ -10,7 +10,7 @@
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://codebase.eu/blog" target="_blank">Blog</a>
    <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://developer.codebase.eu" target="_blank">Developer Updates</a>
+  <a href="https://developer.codebase.eu/learn" target="_blank">Learning Hub</a>
   <br />
   <hr />
 </div>
