@@ -1,4 +1,4 @@
-![PayPal Developer Cover](https://github.com/codebase-eu/.github/blob/main/pp-cover.png)
+![Codebase Cover](https://github.com/codebase-eu/.github/blob/master/pp-cover.png)
 <div align="center">
   <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
