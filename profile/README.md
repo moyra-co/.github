@@ -1,16 +1,16 @@
 ![Codebase Cover](https://github.com/codebase-eu/.github/blob/master/pp-cover.png)
 <div align="center">
-  <a href="https://twitter.com/paypaldev" target="_blank">Twitter</a>
+  <a href="https://twitter.com/codebase-eu" target="_blank">Twitter</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://www.paypal.com/us/home" target="_blank">PayPal</a>
+  <a href="https://www.linkedin.com/company/codebase-eu/" target="_blank">LinkedIn</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://developer.paypal.com/home" target="_blank">Docs</a>
+  <a href="https://developer.codebase.eu/" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://github.com/paypaldev" target="_blank">Code Samples</a>
+  <a href="https://github.com/orgs/codebase-eu/discussions" target="_blank">Discussions</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper" target="_blank">Blog</a>
+  <a href="https://codebase.eu/blog" target="_blank">Blog</a>
    <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://dev.to/paypaldeveloper/developer-updates-april-edition-26kb" target="_blank">Developer Updates</a>
+  <a href="https://developer.codebase.eu" target="_blank">Developer Updates</a>
   <br />
   <hr />
 </div>
