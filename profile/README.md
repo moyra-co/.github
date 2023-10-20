@@ -4,7 +4,7 @@
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/company/codebase-eu/" target="_blank">LinkedIn</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
-  <a href="https://developer.codebase.eu/" target="_blank">Docs</a>
+  <a href="https://www.notion.so/codebase-eu" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://github.com/orgs/codebase-eu/discussions" target="_blank">Discussions</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
