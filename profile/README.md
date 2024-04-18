@@ -6,7 +6,6 @@
   <a href="https://www.notion.so/moyra" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://github.com/orgs/moyra-co/discussions" target="_blank">Discussions</a>
-    <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <br />
   <hr />
 </div>
