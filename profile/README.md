@@ -20,5 +20,5 @@ We specialize on creating tailor made products using modern software development
 Join our developer discussions [here](https://github.com/orgs/moyra/discussions) !
 
 - [Follow us on Twitter](https://twitter.com/moyra).
-- [Codebase at LinkedIn](https://www.linkedin.com/company/moyra/).
+- [Moyra at LinkedIn](https://www.linkedin.com/company/moyra/).
 
